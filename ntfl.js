@@ -1,4 +1,4 @@
-alert("Websute is Under Development, For better Experience Use this Website On Desktop/PC. For Mobile Users Please use Desktop Mode in Your Browser!!");
+alert("Websute is Under Development, For better Experience Use this Website On Desktop/PC!!");
 
 
 
