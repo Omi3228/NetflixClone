@@ -1,0 +1,22 @@
+alert("Websute is Under Development, For beeter Experience Use this Website On Desktop/PC. For Mobile Please use Desktop Mode!!");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
